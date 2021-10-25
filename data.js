@@ -45,7 +45,7 @@ module.exports.schedules = [
         'end_at': "6PM"
     }
 ]
-module.exports.posts = [
+/*module.exports.posts = [
     {
         "user_id": 0,
         "title": "My first post",
@@ -61,4 +61,4 @@ module.exports.posts = [
         "title" : "Hi mum",
         "body": "sdjfncv kxh kjsdnfsukd flksmdm uifnks"
     },
-]
+]*/
